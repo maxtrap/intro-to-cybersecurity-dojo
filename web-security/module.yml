@@ -35,11 +35,11 @@ challenges:
       variants: 16
 - id: cmdi-ls-quote
   name: CMDi 3
-  locked: True
   auxiliary:
     pwnshop:
       challenge: CommandInjectionLSQuote
       variants: 16
+  locked: True
 - id: cmdi-env
   name: CMDi 4
   locked: True
