@@ -5,8 +5,10 @@ challenges:
   name: Connect
 - id: level-1a
   name: Send
+  progression_locked: true
 - id: level-1b
   name: Shutdown
+  progression_locked: true
 - id: level-2
   name: Listen
 - id: level-3
