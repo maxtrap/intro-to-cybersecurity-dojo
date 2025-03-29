@@ -11,13 +11,13 @@ challenges:
   progression_locked: true
 - id: level-2
   name: Listen
+  progression_locked: true
 - id: level-3
   name: Scan 1
 - id: level-4
   name: Scan 2
 - id: level-5
   name: Monitor 1
-  progression_locked: true
 - id: level-6
   name: Monitor 2
 - id: sniff-cookie
