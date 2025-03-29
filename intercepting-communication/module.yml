@@ -11,6 +11,9 @@ challenges:
   progression_locked: true
 - id: level-2
   name: Listen
+  visibility:
+    start: 2005-01-01
+    end: 2007-01-01
 - id: level-3
   name: Scan 1
 - id: level-4
