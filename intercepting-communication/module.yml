@@ -17,6 +17,7 @@ challenges:
   name: Scan 2
 - id: level-5
   name: Monitor 1
+  progression_locked: true
 - id: level-6
   name: Monitor 2
 - id: sniff-cookie
